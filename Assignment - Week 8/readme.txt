@@ -1,0 +1,2 @@
+Original Column Headers:
+Date	Rented Bike Count	Hour	Temperature(∞C)	Humidity(%)	Wind speed (m/s)	Visibility (10m)	Dew point temperature(∞C)	Solar Radiation (MJ/m2)	Rainfall(mm)	Snowfall (cm)	Seasons	Holiday	Functioning Day
