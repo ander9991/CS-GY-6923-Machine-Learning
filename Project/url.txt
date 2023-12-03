@@ -3,3 +3,5 @@ https://www.kaggle.com/datasets/paultimothymooney/stock-market-data/
  python -m pip install statsmodels 
  https://www.kaggle.com/code/williamtck/cisc3014-report
 
+ https://www.youtube.com/watch?v=JgRA0g2gtl0
+
